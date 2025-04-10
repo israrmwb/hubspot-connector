@@ -173,19 +173,6 @@ config/
 ```
 
 ---
-
-/*## 🤝 Contributing
-
-Pull requests are welcome! Feel free to improve sync logic, add tests, or extend support for more HubSpot object types or webhook syncing.
-
-To get started locally:
-
-```bash
-git clone https://github.com/israrmwb/hubspot-connector.git
-cd hubspot-connector
-composer install
-```
-*/
 ---
 
 ## 📄 License
